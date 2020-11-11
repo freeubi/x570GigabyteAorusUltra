@@ -26,4 +26,4 @@ Whats working:
 - Dual boot with Windows10
 - Netflix
 - Adobe apps after this: https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd (before 2020 update1)
-- 
+- Harware acceleration (H264 and HEVC)
